@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">final</string>
+    <string name="title">quality of experience</string>
+    <string name="action_settings">Settings</string>
+    <string name="access_token">pk.eyJ1IjoibnNhcnJhZnphZGUiLCJhIjoiY2tiOTVvY2FlMDZkMzJ4cjF5bngxbXJjbiJ9.O6RkglpBA1rnlRXDkAOdmg</string>
+    <string name="students1">Nazanin Sarrafzade</string>
+    <string name="students2">Alieyeh Sarabandi</string>
+    <string name="explanation">This application shows the state of your phone QOE parameters and signal while moving on the map so you can find blind spots and avoid bad service</string>
+</resources>
